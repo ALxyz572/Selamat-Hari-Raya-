@@ -1,18 +1,18 @@
 <p align="center"> 
-<a href="https://github.com/Alxyz572"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=9e62d7&center=falso&vCenter=falso&lines=Selamat Hari Raya 🌙++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
-<img src="https://qu.ax/lHrxl.jpeg" alt="Selamat Hari Raya 🌙" style="width: 100%; height: auto; max-width: 500px;">
+<a href="https://github.com/Alxyz572"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=9e62d7&center=falso&vCenter=falso&lines=Selamat+Hari+Raya 🌙++%F0%9F%90%88;Jika+ada+salah+mohon+dimaafkan+%F0%9F%92%96" height="90px"></a> 
+<img src="https://files.catbox.moe/i4qttv.jpg" alt="Selamat Hari Raya 🌙" style="width: 100%; height: auto; max-width: 500px;">
   
 > Proyek ini bersifat open source, untuk informasi lebih lanjut kunjungi **[Kebijakan AlpinPush. 😼](https://github.com/Alxyz572/Selamat Hari Raya 🌙/blob/master/terms.md)** 
 </p>
 
 <p align="center">
 <a href="#"><img title="Selamat Hari Raya 🌙" src="https://img.shields.io/badge/JIKA ANDA SUKA REPOSITORI, DUKUNG SAYA DENGAN 🌟 TERIMA KASIH! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
-<img src="https://pin.it/5NlHb1jGr" height="28px">
+<img src="https://files.catbox.moe/7iv7sc.mp4" height="28px">
 </p>  
 
 <p align="center">
 <a href="#"><img title="Selamat Hari Raya 🌙" src="https://img.shields.io/badge/BACA SELURUH README-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a> 
-<a href="#"><img title="Selamat Hari Raya 🌙" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a>
+<a href="#"><img title="Selamat Hari Raya 🌙" src="https://img.shields.io/badge/SELAMAT HARI RAYA IDUL FITRI-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a>
 </p>
 
 <p align="center">   
