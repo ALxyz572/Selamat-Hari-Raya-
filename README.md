@@ -11,7 +11,6 @@
 
 <p align="center">
 <a href="#"><img title="SelamatHariRaya" src="https://img.shields.io/badge/BACA SELURUH README-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a> 
-<a href="#"><img title="SelamatHariRaya" src="https://img.shields.io/badge/HARI RAYA ADALAH WAKTU ORANG SALING BERMAAF MAAFAN-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a>
 </p>
 
 <p align="center">   
