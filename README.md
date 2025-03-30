@@ -11,7 +11,7 @@
 
 <p align="center">
 <a href="#"><img title="SelamatHariRaya" src="https://img.shields.io/badge/BACA SELURUH README-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a> 
-<a href="#"><img title="SelamatHariRaya" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a>
+<a href="#"><img title="SelamatHariRaya" src="https://img.shields.io/badge/HARI RAYA IDUL FITRI ADALAH SUATU WAKTU ORANG SALING MEMAAFKAN-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a>
 </p>
 
 <p align="center">   
