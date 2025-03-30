@@ -1,6 +1,6 @@
 <p align="center"> 
 <a href="https://github.com/Alxyz572"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=9e62d7&center=falso&vCenter=falso&lines=Selamat+Hari+Raya 🌙++%F0%9F%90%88;Jika+ada+salah+mohon+dimaafkan+%F0%9F%92%96" height="90px"></a> 
-<img src="https://files.catbox.moe/i4qttv.jpg alt="SelamatHariRaya" style="width: 100%; height: auto; max-width: 500px;">
+<img src="https://files.catbox.moe/i4qttv.jpg" alt="SelamatHariRaya" style="width: 100%; height: auto; max-width: 500px;">
   
 > Proyek ini bersifat open source, untuk informasi lebih lanjut kunjungi **[Kebijakan AlpinPush. 😼](https://github.com/Alxyz572/SelamatHariRaya/blob/master/terms.md)** 
 </p>
