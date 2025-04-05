@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Anak itu belum pulang - Hindia</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      height: 100vh;
+      background: linear-gradient(135deg, cyan, #a0f8ff);
+      overflow: hidden;
+      font-family: 'Poppins', sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: relative;
+      color: #fff;
+      flex-direction: column;
+    }
+    .floating-box {
+      position: absolute;
+      width: 15px;
+      height: 15px;
+      background: rgba(255, 255, 255, 0.4);
+      animation: floatBox linear infinite;
+      border-radius: 4px;
+    }
+    @keyframes floatBox {
+      0% {
+        transform: translateY(0) translateX(0) rotate(0deg);
+        opacity: 1;
+      }
+      100% {
+        transform: translateY(-1000px) translateX(300px) rotate(720deg);
+        opacity: 0;
+      }
+    }
+    .lyrics {
+      font-size: 2.5em;
+      text-align: center;
+      text-shadow: 2px 2px 10px rgba(255, 255, 255, 0.8);
+      opacity: 0;
+      transition: opacity 1s;
+    }
+  </style>
+</head>
+<body>
+
+<div class="lyrics" id="lyric"></div>
+
+<!-- Kotak-kotak floating -->
+<script>
+  // Bikin kotak-kotak random
+  for (let i = 0; i < 40; i++) {
+    let box = document.createElement('div');
+    box.className = 'floating-box';
+    box.style.left = Math.random() * window.innerWidth + 'px';
+    box.style.top = Math.random() * window.innerHeight + 'px';
+    box.style.animationDuration = (5 + Math.random() * 10) + 's';
+    box.style.opacity = Math.random();
+    document.body.appendChild(box);
+  }
+
+  // Data lirik + timing
+  const lyrics = [
+    { text: "Dihari ini aku bertanya", delay: 0 },
+    { text: "Apa rasanya bagi mereka??", delay: 7000 },
+    { text: "Mengirim surat untuk siapa", delay: 13000 },
+    { text: "Domba mohon ke serigala", delay: 17000 },
+    { text: "Anak itu belum pulang", delay: 20000 },
+    { text: "Yang di sebrang belum pulang", delay: 27000 },
+    { text: "Anak itu belum pulang", delay: 34000 },
+    { text: "Yang di sebrang belum pulang", delay: 39000 }
+  ];
+
+  const lyricDiv = document.getElementById('lyric');
+
+  lyrics.forEach((item, index) => {
+    setTimeout(() => {
+      lyricDiv.style.opacity = 0;
+      setTimeout(() => {
+        lyricDiv.innerText = item.text;
+        lyricDiv.style.opacity = 1;
+      }, 500);
+    }, item.delay);
+  });
+</script>
+
+</body>
+</html>
